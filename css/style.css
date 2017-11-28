@@ -1,0 +1,12 @@
+#menu {
+  background-color: #ee82ee;
+  color: red;
+}
+
+a {
+  color: red;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  border-color: red;
+}
